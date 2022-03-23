@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-preview-card-component-using-flexbox-B1ERGaufq](https://www.frontendmentor.io/solutions/responsive-preview-card-component-using-flexbox-B1ERGaufq)
 - Live Site URL: [https://shamilussainc.github.io/3-Column-Preview-Card-Component/](https://shamilussainc.github.io/3-Column-Preview-Card-Component/)
 
 ## My process
